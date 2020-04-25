@@ -1,6 +1,6 @@
 from enum import Enum
 
-token = '638899869:AAEc8sG8c7HCBNixvEwSi_TxZwy22kj2RMQ'
+token = ''
 
 
 class States(Enum):
