@@ -8,9 +8,9 @@ import sqlite3
 
 
 # WEBHOOK
-WEBHOOK_HOST = '194.135.83.143'
+WEBHOOK_HOST = '0.0.0.0'
 WEBHOOK_PORT = 443
-WEBHOOK_LISTEN = '194.135.83.143'
+WEBHOOK_LISTEN = '0.0.0.0'
 
 WEBHOOK_SSL_CERT = './webhook_cert.pem'
 WEBHOOK_SSL_PRIV = './webhook_pkey.pem'
