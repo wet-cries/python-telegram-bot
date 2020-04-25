@@ -17,7 +17,7 @@ def get_text(source):
 	return tmp
 
 
-ADMIN = 320168389
+ADMIN = 0
 
 
 # CHATBASE CONST
